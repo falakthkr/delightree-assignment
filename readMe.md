@@ -1,8 +1,5 @@
-
-# Calculate the total number of posts, comments, likes, and views for each user, grouped by age range.
-
-## Overview
-The API provides endpoints to aggregate data and gain insights into user behavior based on age ranges.
+## Objective
+Calculate the total number of posts, comments, likes, and views for each user, grouped by age range.
 
 ## Features
 - **Age Range Analytics**: Aggregate statistics on user interactions based on specified age ranges.
