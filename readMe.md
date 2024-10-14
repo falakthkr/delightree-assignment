@@ -1,5 +1,5 @@
 
-# Social Media API
+# Calculate the total number of posts, comments, likes, and views for each user, grouped by age range.
 
 ## Overview
 The API provides endpoints to aggregate data and gain insights into user behavior based on age ranges.
@@ -20,6 +20,7 @@ The following collections are utilized in this API:
 5. **Followers**
 6. **Tags**
 7. **PostTags**
+8. **Views**
 
 ## Installation
 1. Clone the repository:
